@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <h1>vooki's projects</h1>
 <p>I dont have many projects but check these</p>
 <p><b>chronological order</b></p>
@@ -10,5 +7,3 @@
   <p>Melten Core - Core for my mods made for Fabric<p>
   <p>Industrial Immersion - Technology mod for Fabric thought to be Forge version</p>
   </ul>  
-</body>
-</html>
