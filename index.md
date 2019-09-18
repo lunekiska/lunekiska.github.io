@@ -1,4 +1,3 @@
-<object data="index.html" type="text/html"></object>
 <h1>Welcome!</h1>
 <p>I'm Vooki - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
 <p><b>CONTACT</b></p>
