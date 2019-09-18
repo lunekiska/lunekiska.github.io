@@ -4,7 +4,7 @@
   <ul>
     <p><li><b>mail:</b> leafinkek@gmail.com</li></p>
   <p><li><b>source code:</b><a href="https://github.com/Vooki"> github</a></li></p>
-  <p><li><b>projects:</b><a href="vooki.github.io/projects.md"> here we go</a></li></p>
+  <p><li><b>projects:</b><a href="vooki.github.io/projects.html"> here we go</a></li></p>
   </ul>
 <ul>
 <b>1999</b>
