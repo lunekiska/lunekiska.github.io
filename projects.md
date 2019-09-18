@@ -6,4 +6,4 @@
   <li>Started coding Minecraft mods. As everyone knows - it's sort of Java. Current mods I work on:</li>
   <p>Melten Core - Core for my mods made for Fabric<p>
   <p>Industrial Immersion - Technology mod for Fabric thought to be Forge version</p>
-  </ul>  
+</ul>  
