@@ -1,3 +1,4 @@
+<object data="projects.html" type="text/html"></object>
 <h1>vooki's projects</h1>
 <p>I dont have many projects but check these</p>
 <p><b>chronological order</b></p>
