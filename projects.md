@@ -7,4 +7,4 @@
   <li>Started coding Minecraft mods. As everyone knows - it's sort of Java. Current mods I work on:</li>
   </ul>
   <p>Melten Core - Core for my mods made for Fabric<p>
-<p><a href="Industrial_Immersion/docs/">Industrial Immersion</a> - Technology mod for Fabric thought to be Forge version</p>
+<p><a href="https://vooki.github.io/projects">Industrial Immersion</a> - Technology mod for Fabric thought to be Forge version</p>
