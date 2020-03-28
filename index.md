@@ -14,7 +14,7 @@
   
 <hr>
   
-<h3>MY LIFE(BACKWARD CHRONOLOGY)<h3>
+<h3>MY LIFE(BACKWARD CHRONOLOGY)</h3>
   <p><b>2022-23</b>
     <br><br>I will try doing my own game UwU</p>
   <p><b>2021-22</b>
