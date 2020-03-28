@@ -1,4 +1,7 @@
 <p><a href="/index">HOME    </a>|<a href="/projects">    PROJECTS</a></p>
+
+<hr>
+
 <h1>Luneys's projects</h1>
   
  <hr>
