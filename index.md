@@ -1,5 +1,5 @@
 <h1>Welcome!</h1>
-<p>I'm Vooki - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
+<p>I'm Luney(Vooki) - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
 
 <hr>
 
