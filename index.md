@@ -11,13 +11,13 @@
 <hr>
   
 <h3>MY LIFE(BACKWARD CHRONOLOGY)<h3>
-  <p><b>2022-23</b><a>
-    <br><br>I will try doing my own game UwU</a></p>
-  <p><b>2021-22</b><a>
-    <br><br>Gamedev school and courses?</a></p>
-  <p><b>2020</b><a>
-    <br><br>I started trying to do Minecraft mods</a></p>
-  <p><b>2018</b><a>
-    <br><br>I finished polish higschool, done exams and went to next school with IT</a></p>
-  <p><b>1999</b><a>
-    <br><br>I was born</a></p>
+  <p><b>2022-23</b>
+    <br><br>I will try doing my own game UwU</p>
+  <p><b>2021-22</b>
+    <br><br>Gamedev school and courses?</p>
+  <p><b>2020</b>
+    <br><br>I started trying to do Minecraft mods</p>
+  <p><b>2018</b>
+    <br><br>I finished polish higschool, done exams and went to next school with IT</p>
+  <p><b>1999</b>
+    <br><br>I was born</p>
