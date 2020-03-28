@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <h1>Welcome!</h1>
 <p>I'm Vooki - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
 <p><b>CONTACT</b></p>
@@ -10,3 +12,4 @@
 <b>1999</b>
   <li>I was born</li>
   </ul> 
+</html>
