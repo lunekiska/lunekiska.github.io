@@ -1,9 +1,3 @@
-<head>
-    <title>Luney</title>
-
-    <meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=0.4" />
-  </head>
 <h1>Welcome!</h1>
 <p>I'm Vooki - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
 <p><b>CONTACT</b></p>
