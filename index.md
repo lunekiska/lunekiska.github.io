@@ -2,11 +2,11 @@
 <p>I'm Vooki - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
 <p><b>CONTACT</b></p>
   <ul>
-    <p><li><b>mail:</b> leafinkek@gmail.com</li></p>
-  <p><li><b>source code:</b><a href="https://github.com/Vooki"> github</a></li></p>
-  <p><li><b>projects:</b><a href="/projects"> here we go</a></li></p>
+    <p><b>mail:</b> leafinkek@gmail.com</p>
+  <p><b>source code:</b><a href="https://github.com/Vooki"> github</a></p>
+  <p><b>projects:</b><a href="/projects"> here we go</a></p>
   </ul>
 <ul>
 <b>1999</b>
-  <li>I was born</li>
+  I was born
   </ul> 
