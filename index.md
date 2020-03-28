@@ -12,7 +12,7 @@
   
 <p><b>MY LIFE(BACKWARD CHRONOLOGY)</b></p>
   <p><b>2022-23</b></p>
-    I will try doing my own game UwU
+    <p>I will try doing my own game UwU</p>
   <p><b>2021-22</b></p>
     Gamedev school and courses?
   <p><b>2020</b></p>
