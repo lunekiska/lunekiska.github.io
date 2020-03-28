@@ -1,4 +1,7 @@
 <p><a href="/index">HOME    </a>|<a href="/projects">    PROJECTS</a></p>
+
+<hr>
+
 <h1>Welcome!</h1>
 <p>I'm Luney(Vooki) - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
 
