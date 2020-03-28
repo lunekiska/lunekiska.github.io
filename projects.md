@@ -1,4 +1,4 @@
-<p><a href="/index">HOME</a><a href="/projects">   |    PROJECTS</a></p>
+<p><a href="/index">HOME</a>|<a href="/projects">    PROJECTS</a></p>
 <h1>Luneys's projects<h1>
 <p>I dont have many projects but check these</p>
 <h3>BACKWARDS CHRONOLOGY<h3>
