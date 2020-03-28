@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    	<title>Luney</title>
+<head>
+    <title>Luney</title>
 
     <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=0.4" />
@@ -18,4 +16,3 @@
 <b>1999</b>
   <li>I was born</li>
   </ul> 
-</html>
