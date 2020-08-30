@@ -3,7 +3,7 @@
 <hr>
 
 <h1>Welcome!</h1>
-<p>I'm Luney(Vooki) - for now Minecraft mods creator. Going to study IT next year, after finishing current school :></p>
+<p>I'm Lunekiska(Vooki) - for now Minecraft mods creator. Going to study IT or Gamedev next year</p>
 
 <hr>
 
