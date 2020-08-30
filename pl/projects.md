@@ -6,11 +6,11 @@
   
  <hr>
  
-<p>I dont have many projects but check these</p>
+<p>Nie mam za dużo projektów, ale sprawdź te</p>
 
  <hr>
  
-<h3>BACKWARDS CHRONOLOGY</h3>
+<h3>WSTECZNA CHRONOLOGIA</h3>
   <p><b>2020<b><p>
-  <p>Started coding Minecraft mods. As everyone knows - it's sort of Java. Current mods I work on:</p>
-  <p><a href="https://github.com/Vooki/IndImm-Fabric">Industrial Immersion</a> - Tech mod for Fabric Modloader</p>
+  <p>Zaczęłam kodować mody do Minecrafta. Jak wszyscy wiedzą - to coś w stylu Java. Aktualne mody, nad którymi pracuję:</p>
+  <p><a href="https://github.com/Vooki/IndImm-Fabric">Industrial Immersion</a> - Techniczny mod pod Modloader FAbric</p>
