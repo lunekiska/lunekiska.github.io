@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+  
 <p><a href="/index">HOME    </a>|<a href="/projects">    PROJECTS</a></p>
 
 <hr>
@@ -25,3 +28,5 @@
     <br><br>I finished polish higschool, done exams and went to next school with IT</p>
   <p><b>1999</b>
     <br><br>I was born</p>
+
+</html>
