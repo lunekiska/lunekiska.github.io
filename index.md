@@ -1,12 +1,4 @@
-<html lang="en">
-  
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lunekiska's Homepage</title>
-</head>
-  
-<body>
+<lang="en">
    <header class="main-container">
     <span class="page-title">This is a page in English</span>
     <span class="first-reference-element">Lang dropdown</span>
@@ -42,5 +34,3 @@
    </main>
   <div class="collapsed-menu second-reference-element"></div>
   <script src="index.js"></script>
-  </body>
-</html>
