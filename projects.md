@@ -6,7 +6,7 @@
   
  <hr>
  
-<p>I dont have many projects but check these</p>
+<p>I don't have many projects but check these</p>
 
  <hr>
  
