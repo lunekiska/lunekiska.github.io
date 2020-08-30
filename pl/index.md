@@ -10,7 +10,7 @@
 <h3>CONTACT</h3>
   <p><b>mail:</b><a href="mailto:leafinkek@gmail.com"> gmail</a></p>
   <p><b>kod źródłowy:</b><a href="https://github.com/Vooki"> github</a></p>
-  <p><b>projekty:</b><a href="/projects.md"> zaczynamy</a></p>
+  <p><b>projekty:</b><a href="../pl/projects"> zaczynamy</a></p>
   
 <hr>
   
