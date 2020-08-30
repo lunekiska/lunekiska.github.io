@@ -1,6 +1,6 @@
 <p><a href="/index">HOME    </a> | <a href="/projects">    PROJECTS</a> | <a href="/pl/index">    POLSKI</a> | <a href="/fi/index">    SUOMI</a></p>
 
-<hr>fi
+<hr>
 
 <h1>Welcome!</h1>
 <p>I'm Lunekiska(Vooki) - for now Minecraft mods creator. Going to study IT or Gamedev next year</p>
