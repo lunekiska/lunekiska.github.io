@@ -14,13 +14,13 @@
   
 <hr>
   
-<h3>MY LIFE(BACKWARD CHRONOLOGY)</h3>
+<h3>ELÄMÄNI(TAUSTAKRONOLOGIA)</h3>
   <p><b>2022-23</b>
-    <br><br>I will try doing my own game UwU</p>
+    <br><br>Yritän tehdä oman tietokonepeli UwU</p>
   <p><b>2021-22</b>
-    <br><br>Gamedev school and courses?</p>
+    <br><br>Gamedev-koulu ja kurssit?</p>
   <p><b>2020</b>
-    <br><br>I started trying to do Minecraft mods</p>
+    <br><br>Aloin yrittää tehdä Minecraft-modeja</p>
   <p><b>2018</b>
     <br><br>I finished polish higschool, done exams and went to next school with IT</p>
   <p><b>1999</b>
