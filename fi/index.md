@@ -2,15 +2,15 @@
 
 <hr>
 
-<h1>Welcome!</h1>
-<p>I'm Lunekiska(Vooki) - for now Minecraft mods creator. Going to study IT or Gamedev next year</p>
+<h1>Tervetuloa!</h1>
+<p>Olen Lunekiska(Vooki) - toistaiseksi Minecraft-muunnosten luoja. Opiskelemme IT: tä tai Gamedev ensi vuonna</p>
 
 <hr>
 
-<h3>CONTACT</h3>
+<h3>KONTAKTI</h3>
   <p><b>mail:</b><a href="mailto:leafinkek@gmail.com"> gmail</a></p>
-  <p><b>source code:</b><a href="https://github.com/Vooki"> github</a></p>
-  <p><b>projects:</b><a href="../fi/projects"> here we go</a></p>
+  <p><b>lähdekoodi:</b><a href="https://github.com/Vooki"> github</a></p>
+  <p><b>hankkeet:</b><a href="../fi/projects"> nyt sitä mennään</a></p>
   
 <hr>
   
