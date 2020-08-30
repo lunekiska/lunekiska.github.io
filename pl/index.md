@@ -16,7 +16,7 @@
   
 <h3>MOJE ŻYCIE(WSTECZNA CHRONOLOGIA)</h3>
   <p><b>2022-23</b>
-    <br><br>Spróbóję zrobić własną grę UwU</p>
+    <br><br>Spróbuję zrobić własną grę UwU</p>
   <p><b>2021-22</b>
     <br><br>Szkoła Gamedev i kursy?</p>
   <p><b>2020</b>
