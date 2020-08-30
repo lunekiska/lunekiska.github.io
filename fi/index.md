@@ -22,6 +22,6 @@
   <p><b>2020</b>
     <br><br>Aloin yrittää tehdä Minecraft-modeja</p>
   <p><b>2018</b>
-    <br><br>I finished polish higschool, done exams and went to next school with IT</p>
+    <br><br>Valmistuin puolalaisen lukion, tehty tentit ja mennyt seuraavaan kouluun informatiikan kanssa</p>
   <p><b>1999</b>
-    <br><br>I was born</p>
+    <br><br>Minä olen syntynyt</p>
