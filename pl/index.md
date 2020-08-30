@@ -1,4 +1,4 @@
-<p><a href="/pl/index">HOME    </a> | <a href="/pl/projects">    PROJEKTY</a> | <a href="/index">    ENGLISH</a></p>
+<p><a href="/index.md">HOME    </a> | <a href="/projects.md">    PROJEKTY</a> | <a href="../index.md">    ENGLISH</a></p>
 
 <hr>
 
@@ -10,7 +10,7 @@
 <h3>CONTACT</h3>
   <p><b>mail:</b><a href="mailto:leafinkek@gmail.com"> gmail</a></p>
   <p><b>kod źródłowy:</b><a href="https://github.com/Vooki"> github</a></p>
-  <p><b>projekty:</b><a href="/projects"> zaczynamy</a></p>
+  <p><b>projekty:</b><a href="/projects.md"> zaczynamy</a></p>
   
 <hr>
   
