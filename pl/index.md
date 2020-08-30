@@ -1,4 +1,4 @@
-<p><a href="/index">HOME    </a>|<a href="/pl/projects">    PROJEKTY</a>|<a href="/index">    ANGIELSKI</a></p>
+<p><a href="/pl/index">HOME    </a>|<a href="/pl/projects">    PROJEKTY</a>|<a href="/index">    ANGIELSKI</a></p>
 
 <hr>
 
