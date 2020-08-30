@@ -1,9 +1,4 @@
 <lang="en">
-   <header class="main-container">
-    <span class="page-title">This is a page in English</span>
-    <span class="first-reference-element">Lang dropdown</span>
-  </header>
- <main class="main-container">
 <p><a href="/index">HOME    </a>|<a href="/projects">    PROJECTS</a></p>
 
 <hr>
@@ -31,6 +26,5 @@
     <br><br>I finished polish higschool, done exams and went to next school with IT</p>
   <p><b>1999</b>
     <br><br>I was born</p>
-   </main>
   <div class="collapsed-menu second-reference-element"></div>
   <script src="index.js"></script>
