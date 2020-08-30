@@ -1,4 +1,4 @@
-<p><a href="../pl/index.md">HOME    </a> | <a href="../pl/projects.md">    PROJEKTY</a> | <a href="../index.md">    ENGLISH</a></p>
+<p><a href="../pl/index">HOME    </a> | <a href="../pl/projects">    PROJEKTY</a> | <a href="../index">    ENGLISH</a></p>
 
 <hr>
 
