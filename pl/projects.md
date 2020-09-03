@@ -12,5 +12,6 @@
  
 <h3>WSTECZNA CHRONOLOGIA</h3>
   <p><b>2020<b><p>
-  <p>Zaczęłam kodować mody do Minecrafta. Jak wszyscy wiedzą - to coś w stylu Java. Aktualne mody, nad którymi pracuję:</p>
   <p><a href="https://github.com/Vooki/IndImm-Fabric">Industrial Immersion</a> - Techniczny mod pod Modloader Fabric</p>
+  <p><a href="../Hamsterous-Fabric/index">Hamsterous Mod [ENG]</a> - dodaje chomiki Minecrafta. Odtworzenie Hamsterific od Razzleberries</p>
+  <p>Zaczęłam kodować mody do Minecrafta. Jak wszyscy wiedzą - to coś w stylu Java. Aktualne mody, nad którymi pracuję:</p>
