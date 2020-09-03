@@ -13,5 +13,5 @@
 <h3>TAUSTAKRONOLOGIA</h3>
   <p><b>2020<b><p>
   <p><a href="https://github.com/Vooki/IndImm-Fabric">Industrial Immersion</a> - Tekninen mod Fabric Modloaderille</p>
-  <p><a href="/Hamsterous-Fabric/index">Hamsterous Mod [ENG]</a> - dodaje chomiki Minecrafta. Odtworzenie Hamsterific od Razzleberries</p>
+  <p><a href="/Hamsterous-Fabric/index">Hamsterous Mod [ENG]</a> - lisää hamstereita Minecraftiin. Hamsterrific muoti virkistys Razzleberriesistä</p>
   <p>Aloitti Minecraft-modien koodaamisen. Kuten kaikki tietävät, se on tavallaan Java. Nykyiset modit, joissa työskentelen:</p>
