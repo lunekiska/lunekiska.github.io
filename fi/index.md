@@ -3,13 +3,13 @@
 <hr>
 
 <h1>Tervetuloa!</h1>
-<p>Olen Lunekiska(Vooki) - toistaiseksi Minecraft-muunnosten luoja. Opiskelemme IT: tä tai Gamedev ensi vuonna</p>
+<p>Olen Lunekiska - toistaiseksi Minecraft-muunnosten luoja. Menossa opiskelemaan Gamedevia</p>
 
 <hr>
 
 <h3>KONTAKTI</h3>
   <p><b>mail:</b><a href="mailto:leafinkek@gmail.com"> gmail</a></p>
-  <p><b>lähdekoodi:</b><a href="https://github.com/Vooki"> github</a></p>
+  <p><b>lähdekoodi:</b><a href="https://github.com/lunekiska"> github</a></p>
   <p><b>hankkeet:</b><a href="../fi/projects"> nyt sitä mennään</a></p>
   
 <hr>
