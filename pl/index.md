@@ -15,13 +15,13 @@
 <hr>
   
 <h3>MOJE ŻYCIE(WSTECZNA CHRONOLOGIA)</h3>
-  <p><b>2022-23</b></p>
-    <p>Spróbuję zrobić własną grę UwU</p>
-  <p><b>2021-22</b></p>
-    <p>Szkoła Gamedev i kursy?</p>
-  <p><b>2020</b></p>
-    <p>Zaczęłamm próby tworzenia modów do Minecrafta</p>
-  <p><b>2018</b></p>
-    <p>Ukończyłam polskie liceum, zdałam egzaminy i poszłam do następnej szkoły z informatyką</p>
-  <p><b>1999</b></p>
-    <p>Urodziłam się</p>
+  <p><b>2022-23</b><br><br>
+    Spróbuję zrobić własną grę UwU</p>
+  <p><b>2021-22</b><br><br>
+    Szkoła Gamedev i kursy?</p>
+  <p><b>2020</b><br><br>
+    Zaczęłamm próby tworzenia modów do Minecrafta</p>
+  <p><b>2018</b><br><br>
+    Ukończyłam polskie liceum, zdałam egzaminy i poszłam do następnej szkoły z informatyką</p>
+  <p><b>1999</b><br><br>
+    Urodziłam się</p>
