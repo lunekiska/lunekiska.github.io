@@ -3,13 +3,13 @@
 <hr>
 
 <h1>Witaj!</h1>
-<p>Jestem Lunekiska(Vooki) - obecnie tworzę dody Minecrafta. Wybieram się na studia IT lub Gamedev w przyszłym roku</p>
+<p>Jestem Lunekiska - obecnie tworzę mody Minecrafta. Wybieram się na studia Gamedev</p>
 
 <hr>
 
 <h3>KONTAKT</h3>
   <p><b>mail:</b><a href="mailto:leafinkek@gmail.com"> gmail</a></p>
-  <p><b>kod źródłowy:</b><a href="https://github.com/Vooki"> github</a></p>
+  <p><b>kod źródłowy:</b><a href="https://github.com/lunekiska"> github</a></p>
   <p><b>projekty:</b><a href="../pl/projects"> zaczynamy</a></p>
   
 <hr>
