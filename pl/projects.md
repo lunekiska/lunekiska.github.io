@@ -12,7 +12,7 @@
  
 <h3>WSTECZNA CHRONOLOGIA</h3>
   <p><b>2021</b></p>
-  <p>Kisca Canary - Customowa paczka modów do Minecraft na Fabric'u <b>WIP<b> Będzie na 1.16.5 i 1.17, kiedy ta wersja wyjdzie z głównymi modami paczki</p>
+  <p>Kisca Canary - Customowa paczka modów do Minecraft na Fabric'u <b>WIP</b> Będzie na 1.16.5 i 1.17, kiedy ta wersja wyjdzie z głównymi modami paczki</p>
   <p><b>2020<b><p>
   <p><a href="https://github.com/Vooki/IndImm-Fabric">Industrial Immersion</a> - Techniczny mod pod Modloader Fabric</p>
   <p><a href="../Hamsterous-Fabric/index">Hamsterous Mod [ENG]</a> - dodaje chomiki Minecrafta. Odtworzenie Hamsterrific od Razzleberries</p>
