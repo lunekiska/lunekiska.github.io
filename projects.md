@@ -16,6 +16,6 @@
    <br>
   <p><b>2020</b></p>
    <p><a href="https://github.com/lunekiska/IndImm-Fabric">Industrial Immersion</a> - Tech mod for Fabric Modloader</p>
-   <p**ABANDONED**><a href="/Hamsterous-Fabric/index">Hamsterous Mod</a> - adding hamsters to Minecraft. Lunekiska's recreation of Hamsterrific by Razzleberries</p>
+   <p><a href="/Hamsterous-Fabric/index">**ABANDONED** Hamsterous Mod</a> - adding hamsters to Minecraft. Lunekiska's recreation of Hamsterrific by Razzleberries</p>
    <p>Started coding Minecraft mods. As everyone knows - it's sort of Java. Current mods I work on:</p>
 
