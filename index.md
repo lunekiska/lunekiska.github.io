@@ -15,9 +15,9 @@
 <hr>
   
 <h3>MY LIFE(BACKWARD CHRONOLOGY)</h3>
-  <p><b>2022-23</b><br><br>
+  <p><b>TBD</b><br><br>
     I will try doing my own game UwU</p>
-  <p><b>2021-22</b><br><br>
+  <p><b>2021-</b><br><br>
     <p>Gamedev school and courses?</p>
   <p><b>2020</b><br><br>
     I started trying to do Minecraft mods</p>
