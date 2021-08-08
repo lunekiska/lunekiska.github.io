@@ -17,7 +17,7 @@
 <h3>MOJE ŻYCIE(WSTECZNA CHRONOLOGIA)</h3>
   <p><b>TBD</b><br><br>
     Spróbuję zrobić własną grę UwU</p>
-  <p><b>2021-22</b><br><br>
+  <p><b>2021-</b><br><br>
     Szkoła Gamedev i kursy?</p>
   <p><b>2020</b><br><br>
     Zaczęłamm próby tworzenia modów do Minecrafta</p>
