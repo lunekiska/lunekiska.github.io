@@ -15,8 +15,7 @@
 <hr>
   
 <h3>ELÄMÄNI(TAUSTAKRONOLOGIA)</h3>
-  <p><b>2022-23</b>
-    <br><br>Yritän tehdä oman tietokonepeli UwU</p>
+  <p><b>TBD</b></p>
   <p><b>2021-22</b>
     <br><br>Gamedev-koulu ja kurssit?</p>
   <p><b>2020</b>
