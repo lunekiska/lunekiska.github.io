@@ -15,8 +15,9 @@
 <hr>
   
 <h3>ELÄMÄNI(TAUSTAKRONOLOGIA)</h3>
-  <p><b>TBD</b></p>
-  <p><b>2021-22</b>
+  <p><b>TBD</b>
+    <br><br>Yritän tehdä oman tietokonepelin UwU </p>
+  <p><b>2021-</b>
     <br><br>Gamedev-koulu ja kurssit?</p>
   <p><b>2020</b>
     <br><br>Aloin yrittää tehdä Minecraft-modeja</p>
