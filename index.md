@@ -16,7 +16,7 @@
   
 <h3>MY LIFE(BACKWARD CHRONOLOGY)</h3>
   <p><b>TBD</b><br><br>
-    I will try doing my own game</p>
+    I will try doing my own game UwU</p>
   <p><b>2021-</b><br><br>
     <p>Gamedev school and courses?</p>
   <p><b>2020</b><br><br>
