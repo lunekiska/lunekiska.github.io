@@ -1,4 +1,3 @@
-<html>
 <figure class="quote" aria-label="You expected content to be here but there is not that what you wanted. — Luneksika">
   <blockquote cite="" aria-hidden>
     <p class="colored-text">
@@ -19,4 +18,3 @@
 
   <figcaption aria-hidden><cite>Luneksika</cite></figcaption>
 </figure>
-</html>
