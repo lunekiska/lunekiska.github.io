@@ -18,7 +18,7 @@
   <p><b>TBD</b>
     <br><br>Yritän tehdä oman tietokonepelin UwU </p>
   <p><b>2021-</b>
-    <br><br>Gamedev-koulu ja kurssit?</p>
+    <br><br>Opiskelen tietojenkäsittelytieteen Puolan ja Japanin tietotekniikan akatemia </p>
   <p><b>2020</b>
     <br><br>Aloin yrittää tehdä Minecraft-modeja</p>
   <p><b>2018</b>
