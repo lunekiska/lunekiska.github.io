@@ -22,6 +22,6 @@
   <p><b>2020</b><br><br>
     I started trying to do Minecraft mods</p>
   <p><b>2018</b><br><br>
-    I finished polish higschool, done exams and went to next school with IT</p>
+    I finished polish highschool, done exams and went to next school with IT</p>
   <p><b>1999</b><br><br>
     I was born</p>
