@@ -8,7 +8,7 @@
 <hr>
 
 <h3>KONTAKTI</h3>
-  <p><b>mail:</b><a href="mailto:leafinkek@gmail.com"> gmail</a></p>
+  <p><b>mail:</b><a href="mailto:kiscaatwork@gmail.com"> gmail</a></p>
   <p><b>lähdekoodi:</b><a href="https://github.com/lunekiska"> github</a></p>
   <p><b>hankkeet:</b><a href="../fi/projects"> nyt sitä mennään</a></p>
   
