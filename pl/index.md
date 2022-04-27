@@ -18,7 +18,7 @@
   <p><b>TBD</b><br><br>
     Spróbuję zrobić własną grę UwU</p>
   <p><b>2020</b><br><br>
-    Zaczęłamm próby tworzenia modów do Minecrafta</p>
+    Zaczęłam próby tworzenia modów do Minecrafta</p>
   <p><b>2018</b><br><br>
     Ukończyłam polskie liceum, zdałam egzaminy i poszłam do następnej szkoły z informatyką</p>
   <p><b>1999</b><br><br>
