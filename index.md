@@ -1,4 +1,4 @@
-<p><a href="/index">HOME    </a> | <a href="/projects">    PROJECTS</a> | <a href="/pl/index">    POLSKI</a> | <a href="/fi/index">    SUOMI</a></p>
+<p><a href="/index">HOME</a> | <a href="/projects">    PROJECTS</a> | <a href="/pl/index">    POLSKI</a> | <a href="/fi/index">    SUOMI</a></p>
 
 <hr>
 
