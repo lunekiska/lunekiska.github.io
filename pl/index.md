@@ -8,7 +8,7 @@
 <hr>
 
 <h3>KONTAKT</h3>
-  <p><b>mail:</b><a href="mailto:juliamarta@kisca.dev"> gmail</a></p>
+  <p><b>mail:</b><a href="mailto:juliamarta@kisca.dev"> mail</a></p>
   <p><b>kod źródłowy:</b><a href="https://github.com/lunekiska"> github</a></p>
   <p><b>projekty:</b><a href="../pl/projects"> zaczynamy</a></p>
   
