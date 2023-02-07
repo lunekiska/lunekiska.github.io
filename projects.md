@@ -1,11 +1,3 @@
-<h1>Lunekiska's projects</h1>
-  
- <hr>
- 
-<p>I don't have many projects but check these</p>
-
- <hr>
- 
 <h3>BACKWARDS CHRONOLOGY</h3>
   <p><b>2021</b></p>
    <p><b>[WIP]</b> Kisca Canary - Custom Minecraft Fabric modpack. Will be released for 1.16.5 and 1.17</p>
