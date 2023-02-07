@@ -1,7 +1,3 @@
-<p><a href="/index">HOME    </a> | <a href="/projects">    PROJECTS</a> | <a href="/pl/projects">    POLSKI</a> | <a href="/fi/projects">    SUOMI</a></p>
-
-<hr>
-
 <h1>Lunekiska's projects</h1>
   
  <hr>
