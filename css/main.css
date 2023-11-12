@@ -37,9 +37,10 @@
  	 background-color: #ffffff;
 	}
 
-	li2.dropdown { 
+	.dropdown { 
 		position: relative;
 		display: inline-block; 
+		align-self: left;
 	}
 
 	.dropdown-content {
