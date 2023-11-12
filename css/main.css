@@ -11,11 +11,17 @@
 	p.small { font-size: 10px; color: #504e4c; }
 	p.rate2 a { color: #ffffff; }
 	p.rate2 a:hover { color: #e2c3fa; }
-	p.footer { font-size: 12px; color: #e2c3fa; }
 	#container { display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 15px; margin-right: 0; margin-bottom: 15px; margin-left: 0; } 
 	#container > div { text-align: center; margin:  0.6em 0; }
 	#header-menu { display: flex; justify-content: center; align-items: center; }
-	#footer { display: flex; justify-content: center; align-items: center; }
+
+	footer {
+		 font-size: 12px;
+ 		 text-align: center;
+ 		 padding: 5px;
+ 		 background-color: #191919;
+ 		 color: #e2c3fa;
+	}
 	
 	ul {
   	list-style-type: none;
