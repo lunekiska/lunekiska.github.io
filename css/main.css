@@ -15,7 +15,7 @@
 	#container > div { text-align: center; margin:  0.6em 0; }
 	#header-menu { display: flex; justify-content: center; align-items: center; }
 
-	footer {
+	#footer {
 		 font-size: 12px;
  		 text-align: center;
  		 padding: 5px;
@@ -23,7 +23,7 @@
  		 color: #e2c3fa;
 	}
 
-	footer p {color: #e2c3fa;}
+	#footer p {color: #e2c3fa;}
 	
 	ul {
   	list-style-type: none;
