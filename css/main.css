@@ -13,7 +13,7 @@
 	p.rate2 a:hover { color: #e2c3fa; }
 	#container { display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 15px; margin-right: 0; margin-bottom: 15px; margin-left: 0; } 
 	#container > div { text-align: center; margin:  0.6em 0; }
-	#header-menu { display: flex; justify-content: center; align-items: center; }
+	#header-menu { display: flex; justify-content: center; align-items: center; background-color: #191919; }
 
 	#footer {
 		 font-size: 12px;
