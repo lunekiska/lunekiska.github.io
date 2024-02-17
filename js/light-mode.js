@@ -1,4 +1,4 @@
 function myFunction() {
   var element = document.getElementById("*");
-  element.classList.toggle("light-mode");
+  element.classList.toggle("../css/main.css");
 }
