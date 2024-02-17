@@ -1,10 +1,5 @@
-const button = document.querySelector("input");
-button.addEventListener("click", lightModeFunction);
+const button = document.querySelector('input');
 
-function lightModeFunction() {
-  var element = document.body;
-  if (button.lightMode = true) {
-    return element.classList.toggle("../css/light-mode.css")
-  }
-  else return element.classList.toggle("../css/main.css");
-}
+button.addEventListener('switchTheme', () => {
+  document.body.classList.toggle('light');
+})
