@@ -118,7 +118,7 @@
 	}
 
 	.label {
-		background-color: #191919;
+		background-color: #ffff;
 		display: flex;
 		align-items: left;
 		padding: 5px;
@@ -127,7 +127,7 @@
 	}
 
 	.ball {
-		background-color: #ffffff;
+		background-color: #191919;
 		position: absolute;
 		height: 22px;
 		width: 22px;
