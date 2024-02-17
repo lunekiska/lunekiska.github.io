@@ -1,5 +1,5 @@
-const button = document.querySelector('input');
-
-button.addEventListener('switchTheme', () => {
-  document.body.classList.toggle('light');
-})
+const checkbox =
+  document.getElementById('checkbox');
+  checkbox.addEventListener('change', () => {
+    document.body.classList.toggle('light');
+  });
