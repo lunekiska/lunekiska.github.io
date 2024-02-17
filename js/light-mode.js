@@ -2,7 +2,7 @@ const button = document.querySelector("input");
 button.addEventListener("click", lightModeFunction);
 
 function lightModeFunction() {
-  var element = document.getElementById("*");
+  var element = document.body;
   if (button.lightMode = true) {
     return element.classList.toggle("../css/light-mode.css")
   }
