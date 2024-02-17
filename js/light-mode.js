@@ -7,6 +7,7 @@ function lightModeFunction() {
     return element.classList.toggle("/css/light-mode.css"){
         return button.lightMode = true;
     };
-  };
+  }
+  else return element.classList.toggle("/css/main.css") ;
   };
 }
