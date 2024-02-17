@@ -10,4 +10,3 @@ function lightModeFunction() {
   }
   else return element.classList.toggle("../css/main.css");
   };
-}
