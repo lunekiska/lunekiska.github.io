@@ -124,9 +124,10 @@
 		padding: 5px;
 		height: 26px;
 		width: 50px;
+		transform: scale(1.5);
 	}
 
-	.ball {
+	.label .ball {
 		background-color: #191919;
 		position: absolute;
 		height: 22px;
@@ -135,7 +136,6 @@
 	}
 
 	.checkbox:checked + .label .ball {
-		background-color: #e2c3fa;
 		transform: transleteX(24px);
 	}
 
