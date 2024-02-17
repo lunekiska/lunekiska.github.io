@@ -8,6 +8,6 @@ function lightModeFunction() {
         return button.lightMode = true;
     };
   }
-  else return element.classList.toggle("../css/main.css") ;
+  else return element.classList.toggle("../css/main.css");
   };
 }
